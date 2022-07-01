@@ -1,6 +1,5 @@
 # Village: Third World
-## How to play:
-Turn 
+
 ## How to win
 - Collect $1,000,000 ($1M) in Cash and Businesses (Net worth).
 - Or grow a net cash flow of $250k or more.
