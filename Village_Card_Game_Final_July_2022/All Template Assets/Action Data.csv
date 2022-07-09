@@ -1,0 +1,23 @@
+Title,Sector,Reprequired,Cost,Effect,Image,Base4
+Bribe Court,Bribery,0,1,"Block one litigation or bribery card currently being played, or remove one permanent litigation or bribery card from play. Lose 5 rep points.",D:\Card Content\bribecourt.png,D:\Card Content\Base4.png
+Bribe Officials,Bribery,0,1,"You may start one extra business this turn.
+As an additional cost to play this card lose 5 Reputation points.",D:\Card Content\Bribeofficials.png,D:\Card Content\Base4.png
+Embezzle Funds,Bribery,0,5,"One player loses one percent of their total liquid assets (rounded up) for every $1,000 spent in the playing of this card, up to 50%
+Lose 10 rep points.",D:\Card Content\Embezzle funds.png,D:\Card Content\Base4.png
+Spread Rumors,Bribery,0,2,"Cause another player to lose 10 rep points; this cannot lower their rep below 
+zero.  As an extra cost to playing this card lose 1 Rep point.",D:\Card Content\Spread Rumors.png,D:\Card Content\Base4.png
+Anti Trust Lawsuit,Litigation,0,5,"Prevent a player from starting a second business in a sector in which they already own one or more businesses. 
+",D:\Card Content\Anti Trust Lawsuit.png,D:\Card Content\Base4.png
+Counter Litigation,Litigation,0,2,"Block one litigation or bribery card currently being played, or remove one permanent litigation or bribery card from play.",D:\Card Content\Counter Litigation.png,D:\Card Content\Base4.png
+Hostile Takeover ,Litigation,0,10,"Acquire any one business currently owned by another player. Make a one time payment equal to the startup cost plus one year’s cashflow of that business.
+",D:\Card Content\Hostile Takeover .png,D:\Card Content\Base4.png
+Impose Taxes,Litigation,0,5,"Play this card on a single business. Affected business loses twenty percent of its cashflow until the taxes are lifted via counter-litigation.
+",D:\Card Content\Impose Taxes.png,D:\Card Content\Base4.png
+Legal Consultation,Litigation,0,2,You may start one extra Business this turn.,D:\Card Content\Legal Consultation.png,D:\Card Content\Base4.png
+Prosecute Felon,Litigation,0,5,"Remove one Illegal business from the game. The owner of that business loses the startup cost of that business or $10,000, whichever is greater, in reparations.",D:\Card Content\Prosecute Felon.png,D:\Card Content\Base4.png
+Civil War,.,0,0,"Civil war disrupts the region.  Every other player receives no positive cash flow from legal businesses their next turn.
+",D:\Card Content\civil war.png,D:\Card Content\Base4.png
+Press Coverage,.,0,0,Media expose on social enterprise increases international awareness. Each legal business doubles its cash flow and reputation effects next turn.,D:\Card Content\Press Coverage.png,D:\Card Content\Base4.png
+Call IJM,Litigation,20,10,"Destroy one illegal business. Its owner loses twice that business’ cashflow in reparations. Up to
+$200,000. This effect may not be prevented.",D:\Card Content\Call IJM.png,D:\Card Content\Base4.png
+Media Promote Education,.,20,1,Media attention increases investment in education sector businesses.,D:\Card Content\Media Promote Education.png,D:\Card Content\Base4.png

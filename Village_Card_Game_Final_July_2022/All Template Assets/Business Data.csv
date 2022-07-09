@@ -1,0 +1,23 @@
+Title,Descriptions,Sector,Repflow,Cashflow,Image,Required,Cost,Base
+Press Office,Each other business you own gains +1 Reputation per turn.,Media,0,1,D:\Card Content\Pressoffice.png,10,10,D:\Card Content\Base.png
+Professional Kidnapping,.,Extortion,-20,75,D:\Card Content\Kidnap.png,20,50,D:\Card Content\Base.png
+Bootleg DVD,Illegal business pirating DVDs with great cashflow andlow priority forlaw enforcement.,Media,-1,25,D:\Card Content\bootlegdvd.png,5,50,D:\Card Content\Base.png
+Medical Office,.,Health,2,-2,D:\Card Content\cfwshops.png,5,20,D:\Card Content\Base.png
+R&D Office,Youmay draw an extra card each turn.,Consulting,0,-5,D:\Card Content\R&D.png,0,25,D:\Card Content\Base.png
+Child Pickpockets,.,Theft,-1,1,D:\Card Content\childpickpocket.png,1,1,D:\Card Content\Base.png
+Ciudad Saludable,.,Infrastructure,2,2,D:\Card Content\CiudadSaludable.png,10,30,D:\Card Content\Base.png
+Clay Stoves School,.,Education,1,1,D:\Card Content\clay stoves.png,0,1,D:\Card Content\Base.png
+Clothing Cooperative,.,Goods,1,1,D:\Card Content\clothing coop.png,2,5,D:\Card Content\Base.png
+Computer Literacy Center,.,Education,2,2,D:\Card Content\computer literacy.png,4,5,D:\Card Content\Base.png
+Desalination Plant,.,Infrastructure,2,3,D:\Card Content\desalination.png,25,150,D:\Card Content\Base.png
+Kickstart Pumps,10X improvement  inirrigation for small farmers.,Infrastructure,2,20,D:\Card Content\Kickstart.png,25,50,D:\Card Content\Base.png
+Microcredit Bank,.,Financial,3,15,D:\Card Content\microcredit bank.png,30,100,D:\Card Content\Base.png
+Mobile Library,.,Education,1,2,D:\Card Content\mobile library.png,0,1,D:\Card Content\Base.png
+Opium Fields,.,Drug Trade,-5,25,D:\Card Content\opium field.png,10,25,D:\Card Content\Base.png
+Orphanage,.,Education,5,-2,D:\Card Content\orphanage.png,10,30,D:\Card Content\Base.png
+Solar Panel Rental,Rent solar panels to,Energy,2,50,D:\Card Content\Solar Panel Rental.png,25,200,D:\Card Content\Base.png
+Solar WaterHeater,.,Infrastructure,1,1,D:\Card Content\solar water heater.png,0,10,D:\Card Content\Base.png
+Solar Refrigerator,.,Infrastructure,2,1,D:\Card Content\solar_fridge.png,1,15,D:\Card Content\Base.png
+Village Phone,.,Infrastructure,2,10,D:\Card Content\Village Phone.png,15,40,D:\Card Content\Base.png
+Windmill Farm,.,Energy,2,1,D:\Card Content\Windmill Farm.png,5,20,D:\Card Content\Base.png
+Bicycle Cargobike,.,Infrastructure,1,1,D:\Card Content\zambikes.png,0,5,D:\Card Content\Base.png
